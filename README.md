@@ -14,8 +14,9 @@ Currently located in NYC, I'm most excited about translating frontier research i
 
 ### Publications & Patents
 
-- Towards More Effective AI-Assisted Programming — ICSE-SEIP 2023, IEEE/ACM (Senior author)
-- 2 patents on AI-assisted coding
+- [Towards More Effective AI-Assisted Programming — ICSE-SEIP 2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZQdvRdoAAAAJ&citation_for_view=ZQdvRdoAAAAJ:d1gkVwhDpl0C) (Senior author, 38 citations, 2023)
+- [2 patents on AI-assisted coding (20 citations)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=ZQdvRdoAAAAJ)
+- [Analyzing climate change discussions on Reddit - IEEE-CSCI (17 citations, 2022)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZQdvRdoAAAAJ&citation_for_view=ZQdvRdoAAAAJ:9yKSN-GCB0IC)
 
 ### Talks
 
