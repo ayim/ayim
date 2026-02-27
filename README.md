@@ -3,7 +3,7 @@
 Currently located in NYC, I'm most excited about translating frontier research into experiences users love.
 
 * At Microsoft, I shipped **IntelliCode** — the first commercial AI code completion tool and invented the **grey-text inline suggestion UX** that's now the industry standard in every AI coding tool (Copilot, Cursor, Windsurf, you name it).
-* I also shipped **GitHub Copilot** in Visual Studio, leading Edits Mode and Agent Mode.
+* I also shipped **GitHub Copilot** in Visual Studio, leading Edits Mode, Agent Mode, and planning/code-mapping features.
 
 Now I'm a **Senior PM at [Sema4.ai](https://sema4.ai)**, building an finance agent platform for Fortune 500 companies.
 
