@@ -10,12 +10,12 @@ Currently located in NYC, I'm most excited about translating frontier research i
 
 - **AI Agents for finance** where code interpreters, documents, and files are first-class primitives.
 - **Skill-level RL** — Improve agent skills (classifiers, extractors, tool use) and their selection based on production outcomes.
-- 📊 **Evaluation frameworks** for consistency (pass^k), not just accuracy (pass@k) — getting us toward deterministic execution.
+- **Evaluation frameworks** for consistency (pass^k), not just accuracy (pass@k) — getting us toward deterministic execution.
 
 ### Publications & Patents
 
-- 📄 Towards More Effective AI-Assisted Programming — ICSE-SEIP 2023, IEEE/ACM (Senior author)
-- 🔐 2 patents on AI-assisted coding
+- Towards More Effective AI-Assisted Programming — ICSE-SEIP 2023, IEEE/ACM (Senior author)
+- 2 patents on AI-assisted coding
 
 ### Talks
 
