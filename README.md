@@ -20,11 +20,13 @@ Now I'm a **Senior PM at [Sema4.ai](https://sema4.ai)**, building an finance age
 
 ### Talks
 
-- **Microsoft Build 2025** - Copilot features you might have missed in Visual Studio
-- **Microsoft Teams AI Meetup NYC - Feb 2024** - Shipping AI Features Under Uncertainty: Building with Weak User Feedback Signals
-- **Microsoft MVP Global Summit 2022** - The future of IntelliCode: merge conflict resolution, PR feedback memories,
-- **Product Camp Vancouver 2021** - Research-Driven AI: How Eye Tracking, Stratified Sampling, and Instant Teams Interviews Enabled Daily Iteration at Microsoft
-- **DevIntersection Las Vegas 2021** - Productivity with IntelliCode: Intent Detection, Repeated Edits, Whole-Line Autocomplete.
+| Year | Event | Topic |
+|------|-------|-------|
+| 2025 | Microsoft Build | Copilot features in Visual Studio |
+| 2024 | Microsoft Teams AI Meetup NYC | Shipping AI under uncertainty & weak feedback signals |
+| 2022 | Microsoft MVP Global Summit | Future of IntelliCode: merge conflicts, PR memories |
+| 2021 | Product Camp Vancouver | Research-driven AI: eye tracking, stratified sampling, daily iteration |
+| 2021 | DevIntersection Las Vegas | IntelliCode: intent detection, repeated edits, whole-line autocomplete |
 
 ### How to reach me
 
