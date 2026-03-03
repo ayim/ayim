@@ -3,8 +3,8 @@
 Currently located in NYC, I'm most excited about translating frontier research into experiences users love.
 
 - At Microsoft, I shipped **IntelliCode**, the first AI autocomplete from 0 → 3M+ users; along the way, shipping the **grey-text / inline diff UX** now used by Cursor and Antigravity.
-- I later worked on **GitHub Copilot** in Visual Studio — leading Edits Mode, Agent Mode, and planning features.
-- Now I'm a **Senior PM at [Sema4.ai](https://sema4.ai)**, building an finance agent platform for Fortune 500 companies.
+- I later worked on **GitHub Copilot** in Visual Studio - leading Edits Mode, Agent Mode, and planning features and along the way, solving LLM code-mapping and building framework specific evals.
+- Now I'm a **Senior PM at [Sema4.ai](https://sema4.ai)**, building a finance agent platform adopted by Koch Industries and Fortune 500 companies.
 
 ### What I'm working on
 
@@ -27,6 +27,13 @@ Currently located in NYC, I'm most excited about translating frontier research i
 | 2022 | Microsoft MVP Global Summit | Future of IntelliCode: merge conflicts, PR memories |
 | 2021 | Product Camp Vancouver | Research-driven AI: eye tracking, stratified sampling, daily iteration |
 | 2021 | DevIntersection Las Vegas | IntelliCode: intent detection, repeated edits, whole-line autocomplete |
+
+### Judging
+
+| Year | Event | Co-judges |
+|------|-------|-------|
+| 2026 | Cornell Healthtech Hackathon | TBD |
+| 2025 | Cornell AI Hackathon | Sean Cleveland, Director of Cyberinfrastructure @ University of Hawaii & Alwyn Collinson MA, Head of AI & ML Competency Centre @ University of Oxford |
 
 ### How to reach me
 
