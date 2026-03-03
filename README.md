@@ -17,6 +17,7 @@ Currently located in NYC, I'm most excited about translating frontier research i
 - [Towards More Effective AI-Assisted Programming — ICSE-SEIP 2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZQdvRdoAAAAJ&citation_for_view=ZQdvRdoAAAAJ:d1gkVwhDpl0C) (Senior author, 38 citations, 2023)
 - [2 patents on AI-assisted coding](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=ZQdvRdoAAAAJ) (20 citations)
 - [Analyzing climate change discussions on Reddit - IEEE-CSCI](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZQdvRdoAAAAJ&citation_for_view=ZQdvRdoAAAAJ:9yKSN-GCB0IC) (17 citations, 2022)
+- ACM Certified Peer Reviewer
 
 ### Talks
 
@@ -33,7 +34,7 @@ Currently located in NYC, I'm most excited about translating frontier research i
 | Year | Event | Co-judges |
 |------|-------|-------|
 | 2026 | Cornell Healthtech Hackathon | TBD |
-| 2025 | Cornell AI Hackathon | Sean Cleveland, Director of Cyberinfrastructure @ University of Hawaii & Alwyn Collinson MA, Head of AI & ML Competency Centre @ University of Oxford |
+| 2025 | Cornell AI Hackathon | Sean Cleveland, Director of Cyberinfrastructure @ University of Hawaii <br>  Alwyn Collinson MA, Head of AI & ML Competency Centre @ University of Oxford |
 
 ### How to reach me
 
