@@ -34,7 +34,7 @@ Currently located in NYC, I'm most excited about translating frontier research i
 | Year | Event | Co-judges |
 |------|-------|-------|
 | 2026 | Cornell Healthtech Hackathon | TBD |
-| 2025 | Cornell AI Hackathon | Sean Cleveland, Director of Cyberinfrastructure @ University of Hawaii <br>  Alwyn Collinson MA, Head of AI & ML Competency Centre @ University of Oxford |
+| 2025 | Cornell AI Hackathon | Sean Cleveland, Director of Cyberinfrastructure @ University of Hawaii <br>  Alwyn Collinson, Head of AI & ML Competency Centre @ University of Oxford |
 
 ### How to reach me
 
