@@ -8,7 +8,7 @@ Currently located in NYC, I'm most excited about translating frontier research i
 
 ### What I'm working on
 
-- **AI Agents for finance** where code interpreters, documents, and files are first-class primitives.
+- **AI Agents to automate Procure 2 Pay Process** enabling determinstic execution via code interpreters, agent arch, and nanoVM architecture.
 - **Skill-level RL** — Improve agent skills (classifiers, extractors, tool use) and their selection based on production outcomes.
 - **Evaluation frameworks** for consistency (pass^k), not just accuracy (pass@k) — getting us toward deterministic execution.
 
