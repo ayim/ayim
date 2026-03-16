@@ -3,7 +3,7 @@
 Currently located in NYC, I'm most excited about translating frontier research into experiences users love.
 
 - At Microsoft, I shipped **IntelliCode**, the first AI autocomplete from 0 → 3M+ users; along the way, shipping the **grey-text / inline diff UX** now used by Cursor and Antigravity.
-- I later worked on **GitHub Copilot** in Visual Studio - leading Edits Mode, Agent Mode, and planning features and along the way, solving LLM code-mapping and building framework specific evals.
+- I later led **GitHub Copilot**'s implementation in Visual Studio - building Edits Mode, Agent Mode, planning features and along the way, solving LLM code-mapping and collaborating with language teams to create a set of private framework specific evals.
 - Now I'm a **Senior PM at [Sema4.ai](https://sema4.ai)**, building a finance agent platform adopted by Koch Industries and Fortune 500 companies.
 
 ### What I'm working on
