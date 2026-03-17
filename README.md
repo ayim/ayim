@@ -28,6 +28,7 @@ Currently located in NYC, I'm most excited about translating frontier research i
 | 2022 | Microsoft MVP Global Summit | Future of IntelliCode: merge conflicts, PR memories |
 | 2021 | Product Camp Vancouver | Research-driven AI: eye tracking, stratified sampling, daily iteration |
 | 2021 | DevIntersection Las Vegas | IntelliCode: intent detection, repeated edits, whole-line autocomplete |
+| 2019 | Microsoft Internship Symposium | Building Tech for Social Good with UW Blueprint |
 
 ### Judging
 
