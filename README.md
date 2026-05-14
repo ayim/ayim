@@ -20,7 +20,7 @@ Currently located in NYC, I'm most excited about translating frontier research i
 
 ### Reviewing
 
-Reviewer for [TMLR](https://www.jmlr.org/tmlr/) and [ICML 2026](https://icml.cc/). ACM Certified Peer Reviewer. See my [OpenReview profile](https://openreview.net/profile?id=~Aaron_Yim1).
+Reviewer for [TMLR](https://www.jmlr.org/tmlr/) and the [5th Deep Learning for Code (DL4C) Workshop @ ICML 2026](https://dl4c.github.io/). ACM Certified Peer Reviewer. See my [OpenReview profile](https://openreview.net/profile?id=~Aaron_Yim1).
 
 ### Talks
 
