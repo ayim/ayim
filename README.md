@@ -42,7 +42,7 @@ ACM Certified Peer Reviewer · [OpenReview profile](https://openreview.net/profi
 
 | Year | Event | Co-judges |
 |------|-------|-------|
-| 2026 | Cornell AI Hackathon | TBD |
+| 2026 | Cornell AI Hackathon | Stephen Jin, Director @ Shanghai Gona-Semi <br> Rohan Kodialam, Co-founder & CEO @ Sphinx.ai <br> Ali Mahomed, Founder @ Bluevia Health <br> Charles Niesenbaum '07, Sr Manager, Customer Success @ Tabs |
 | 2025 | Cornell AI Hackathon | Sean Cleveland, Director of Cyberinfrastructure @ University of Hawaii <br>  Alwyn Collinson, Head of AI & ML Competency Centre @ University of Oxford |
 
 ### How to reach me
