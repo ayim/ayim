@@ -20,10 +20,12 @@ Currently located in NYC, I'm most excited about translating frontier research i
 
 ### Peer Review
 
-- [TMLR](https://www.jmlr.org/tmlr/) (Transactions on Machine Learning Research)
-- [5th Deep Learning for Code (DL4C) Workshop @ ICML 2026](https://dl4c.github.io/)
-- ACM Certified Peer Reviewer
-- [OpenReview profile](https://openreview.net/profile?id=~Aaron_Yim1)
+| Year  | Venue                                                                              |
+|-------|------------------------------------------------------------------------------------|
+| 2026  | [5th Deep Learning for Code (DL4C) Workshop @ ICML 2026](https://dl4c.github.io/)  |
+| 2026– | [TMLR](https://www.jmlr.org/tmlr/) (Transactions on Machine Learning Research)     |
+
+ACM Certified Peer Reviewer · [OpenReview profile](https://openreview.net/profile?id=~Aaron_Yim1)
 
 ### Talks
 
