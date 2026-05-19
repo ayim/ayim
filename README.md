@@ -18,7 +18,7 @@ Currently located in NYC, I'm most excited about translating frontier research i
 - [2 patents on AI-assisted coding](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=ZQdvRdoAAAAJ) (20 citations)
 - [Analyzing climate change discussions on Reddit - IEEE-CSCI](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZQdvRdoAAAAJ&citation_for_view=ZQdvRdoAAAAJ:9yKSN-GCB0IC) (17 citations, 2022)
 
-### Reviewing
+### Peer Review
 
 - [TMLR](https://www.jmlr.org/tmlr/) (Transactions on Machine Learning Research)
 - [5th Deep Learning for Code (DL4C) Workshop @ ICML 2026](https://dl4c.github.io/)
