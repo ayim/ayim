@@ -31,7 +31,7 @@ ACM Certified Peer Reviewer · [OpenReview profile](https://openreview.net/profi
 
 | Year | Event | Topic |
 |------|-------|-------|
-| 2026 | [NYU Steinhardt](https://steinhardt.nyu.edu/) | "Scaling", guest lecture for Business of Innovation, taught by [Samantha G. Wolfe](https://steinhardt.nyu.edu/people/samantha-g-wolfe) |
+| 2026 | [NYU Steinhardt](https://steinhardt.nyu.edu/) | Scaling, guest lecture for Business of Innovation, taught by [Samantha G. Wolfe](https://steinhardt.nyu.edu/people/samantha-g-wolfe) |
 | 2025 | Microsoft Build | Copilot features in Visual Studio |
 | 2024 | Microsoft Teams AI Meetup NYC | Shipping AI under uncertainty & weak feedback signals |
 | 2022 | Microsoft MVP Global Summit | Future of IntelliCode: merge conflicts, PR memories |
