@@ -22,9 +22,9 @@ Currently located in NYC, I'm most excited about translating frontier research i
 
 | Year  | Venue                                                                              |
 |-------|------------------------------------------------------------------------------------|
-| 2026  | [HAI 2026](https://hai-conference.net/)                            |
-| 2026  | [5th Deep Learning for Code (DL4C) Workshop @ ICML 2026](https://dl4c.github.io/)  |
-| 2026– | [TMLR](https://www.jmlr.org/tmlr/) (Transactions on Machine Learning Research)     |
+| 2026– | [TMLR](https://www.jmlr.org/tmlr/) — Transactions on Machine Learning Research |
+| 2026  | [HAI 2026](https://hai-conference.net/hai2026/) — 14th International Conference on Human-Agent Interaction |
+| 2026  | [DL4C @ ICML 2026](https://dl4c.github.io/) — 5th Deep Learning for Code Workshop |
 
 ACM Certified Peer Reviewer · [OpenReview profile](https://openreview.net/profile?id=~Aaron_Yim1)
 
